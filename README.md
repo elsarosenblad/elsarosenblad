@@ -1,11 +1,11 @@
-## Hi there 👋
+
 
 I’m **Elsa Rosenblad**, an M.Sc. student in Biotechnology Engineering graduating in June 2026.  
-I’m passionate about **programming, data, and problem solving**.  
 
-- Currently working on interpretable machine learning methods in the **VisuNet** project at Uppsala University  
+- Currently pursuing Master Thesis at Moleculent.
+- Previously worked on interpretable machine learning methods in the **VisuNet** project at Uppsala University  
 - Experienced in **Python, SQL, R, and C** 
-- Winner of the **Uppsala Kommun Hackathon 2025** for developing an AI-based automation tool  
+- Winner of the **Uppsala Kommun Hackathon 2025** for developing an AI-based procurement tool  
 
-📫 **Feel free to connect!**  
+📫 **Linkedin & Email**  
 [LinkedIn](https://www.linkedin.com/in/elsa-rosenblad-a1b204211/) • [Email](mailto:elsa.rosenblads@gmail.com)
